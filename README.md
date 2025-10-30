@@ -14,6 +14,7 @@ It allows users to:
 - Retrieve messages directly from the blockchain.  
 
 This contract is ideal for learning Move basics — such as resources, entry functions, and account storage.
+<img width="1645" height="816" alt="Screenshot 2025-10-30 221800" src="https://github.com/user-attachments/assets/fa39b86d-1f29-4774-a43e-6507adf60385" />
 
 ---
 
